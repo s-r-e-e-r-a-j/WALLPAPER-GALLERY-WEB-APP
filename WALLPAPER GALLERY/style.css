@@ -1,0 +1,23 @@
+
+		body{
+			background-color: cyan;
+		}
+
+		.img-container{
+			width:100%;
+			height:100vh;
+			background-color:cyan;
+			display:grid;
+			grid-template-columns:repeat(3,450px);
+			gap:30px;
+			margin:20px;
+		}
+
+		h1{
+			position:relative;
+			left:580px;
+			font-size:3rem;
+			color:blueviolet;
+		}
+
+	
