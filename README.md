@@ -1,1 +1,1 @@
-Wallpaper Gallery Made With Html And Css
+Wallpaper Gallery Made With Html Css and javascript
