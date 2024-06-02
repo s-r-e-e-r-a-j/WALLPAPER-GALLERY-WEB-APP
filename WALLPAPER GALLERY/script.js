@@ -1,4 +1,4 @@
-//coded by sreeraj
+ //coded by sreeraj
 
 const imagesarray=[];
 const aarray=[];
