@@ -1,6 +1,5 @@
 
 Wallpaper Gallery Made With Html Css and javascript
 Click the image for download
-![Screenshot 2024-05-26 163714](https://github.com/C0DEGamer/WALLPAPER-GALLERY/assets/154326486/3e4db8bd-87cd-4cc1-87a5-51345293ed76)
 
-Disclaimer:do not enter number of images > 400 it leads server down of wallpaperaccess
+<img width="1912" height="922" alt="Screenshot 2025-09-20 171401" src="https://github.com/user-attachments/assets/b87618fd-6141-4c9f-af2f-6aa1f17b0f7d">
